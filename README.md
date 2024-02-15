@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @krishnakoumar27
-- 👀 I’m interested in Web Development and Java applications.
-- 🌱 I’m currently learning React and Spring Boot.
-- 💞️ I’m looking to collaborate on open source web application development and much more.
+- 👀 I’m interested in knowing about the art of software development.
+- 🌱 I’m currently basic programming principles.
+- 💞️ I’m looking to collaborate on open source application development and much more.
 - 📫 How to reach me krishnakoumar.c@pec.edu
 
 <!---
