@@ -8,7 +8,3 @@
 krishnakoumar27/krishnakoumar27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-[![Krishnakoumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishnakoumar27)](https://github.com/anuraghazra/github-readme-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=krishnakoumar27)](https://github.com/ryo-ma/github-profile-trophy)
